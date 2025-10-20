@@ -1,4 +1,4 @@
-# Interfaces Inteligantes. Práctica 4. Eventos
+# Interfaces Inteligentes. Práctica 4. Eventos
 
 ### Ejercicio 1:
 Para llevar a cabo este problema, hemos creado un [script](scripts/Ejercicio1Notificador.cs) con un `delegate` y un `event` sin parámetros y retornando `void`. Luego hemos suscrito diferentes métodos en los scripts para las [esferas tipo 1](scripts/Ejercicio1EsferasTipo1.cs) y las [esferas tipo 2](scripts/Ejercicio1EsferasTipo2.cs) respectivamente.
